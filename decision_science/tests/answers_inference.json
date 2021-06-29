@@ -1,0 +1,7 @@
+{
+    "MEDIAN_AGE": "\nincreasing the number of crimes\n",
+    "T_STAT": " the t-statistic of the median age regressor is 1.820. \nit is a ratio of the coefficient and the standard deviation",
+    "P_VALUE": "\nthe p-value is taller than 0.05, so it is not statistically significant at the 95% confidence level.\nidem the median age is not statistically significant at the 90% confidence level\n",
+    "INCREASE": "\nEach increase in the share of families with a married couple \ndecreases the number of incident by 2115.1839, holding all other constant.\n",
+    "LIMITATIONS": "\nwe don't have enough data\n"
+}
